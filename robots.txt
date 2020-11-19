@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /page/
+Disallow: /page/*.html
+
+User-agent: *
+Disallow: /page/
+Disallow: /page/*.html
+#Disallow politics
+
+Sitemap: https://lllll.cf/sitemap.xml
+Sitemap: https://lllll.cf/baidusitemap.xml
+
+Sitemap: http://lllll.cf/sitemap.xml
+Sitemap: http://lllll.cf/baidusitemap.xml
